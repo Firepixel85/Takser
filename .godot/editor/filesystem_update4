@@ -1,10 +1,3 @@
-res://Scenes/timetest.tscn
-res://Scenes/taskexaple.tscn
-res://Scenes/devmode.tscn
-res://Scenes/fintask.tscn
-res://Scenes/newtask.tscn
-res://Scenes/test.tscn
-res://Scenes/MainUI.tscn
-res://Scenes/Error.tscn
-res://Scripts/taskexaple.gd
-res://Scripts/devmode.gd
+res://Main/main.tscn
+res://Theme/Main Theme.tres
+res://Main/Scipts/rtv.gd
